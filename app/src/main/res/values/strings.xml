@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MeetUpKotlin</string>
+
+
+    <string name="facebook_app_id">128623531101791</string>
+    <string name="fb_login_protocol_scheme">fb128623531101791</string>
+</resources>
